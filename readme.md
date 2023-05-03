@@ -15,6 +15,7 @@ For example, I currently can switch to these inputs:
 
 I can also swap outputs (more on this later?)
 
+If you're a more visual learner it might help to look at the wip building instructions: [here](https://github.com/burro-jockey/kennyvision/blob/main/Page%201-merged.pdf)
 ## The basics
 
 *Most diy night vision devices have two primary components.
